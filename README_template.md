@@ -30,7 +30,7 @@
   - [What I learned](#what-i-learned)
   - [Useful resources](#useful-resources)
 - [Built with](#built-with)
-- [Contact](#contact)
+- [Contact](#author)
 
 <!-- OVERVIEW -->
 
