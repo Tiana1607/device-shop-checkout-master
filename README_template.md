@@ -57,19 +57,14 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 - [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
 - [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
 -->
+- [CSS Grid] (https://youtu.be/Jarz_GZG7-I?si=NaJ78s0pxNiGIlv_) - This helped understand the basics of CSS Grid
 
 ### Built with
-
-<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
 - CSS Grid
-
-## Acknowledgements
-
-<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
 ## Author
 - GitHub [@Tiana1607](https://github.com/Tiana1607)
