@@ -57,7 +57,8 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 - [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
 - [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
 -->
-- [CSS Grid] (https://youtu.be/Jarz_GZG7-I?si=NaJ78s0pxNiGIlv_) - This helped understand the basics of CSS Grid
+- [CSS Grid](https://youtu.be/Jarz_GZG7-I?si=NaJ78s0pxNiGIlv_) - This helped me understand the basics of CSS Grid
+- [CSS FlexBox](https://youtu.be/DPHgIIdrmFk?si=jUjUNAeIH-aLYW6B) - This helped me understand the basics of CSS FlexBox
 
 ### Built with
 
