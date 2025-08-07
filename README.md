@@ -6,11 +6,11 @@
 
 <div align="center">
   <h3>
-    <a href="{https://your-demo-link.your-domain}">
+    <a href="https://tiana1607.github.io/device-shop-checkout-master/">
       Demo
     </a>
     <span> | </span>
-    <a href="{https://your-url-to-the-solution}">
+    <a href="https://github.com/Tiana1607/device-shop-checkout-master.git">
       Solution
     </a>
     <span> | </span>
