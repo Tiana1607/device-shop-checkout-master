@@ -72,7 +72,6 @@ I had difficulties here :
     .container2 {
         border-radius: 0 0 4% 4%;
     }
-}
 
 ### Useful resources
 
