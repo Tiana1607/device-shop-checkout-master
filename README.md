@@ -45,7 +45,7 @@ I learned a lot about CSS Grid and Flexbox and also improved my skills in CSS in
 I had some difficulties when it came to make the website responsive, so I ain't gonna lie, I used Deepseek a little bit but even so, it still made some errors and I kinda handled it perfectly and the result came out good.
 I had difficulties here :
 
-@media (max-width: 640px) {
+
     .all {
         display: grid;
         grid-template-columns: 1fr 1fr;
